@@ -9,7 +9,7 @@
         "email": "contact@luuxius.fr",
         "url": "https://github.com/luuxius"
     },
-    "url": "https://zxt-structure.fr/files_launcher/",
+    "url": "https://file.temporaire.biz.st/Voltium-Launcher-WEB-Folder%20(1)/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",

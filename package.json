@@ -1,7 +1,7 @@
 {
     "name": "Voltium-Launcheur",
     "preductname": "Voltium Launcher",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "description": "Launcher Mincraft pour le serveur Voltium",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxius.fr",
         "url": "https://github.com/luuxius"
     },
-    "url": "http://file.temporaire.biz.st/Voltium-Launcher-WEB-Folder%20(1)/launcher/config-launcher/config.json",
+    "url": "https://file.temporaire.biz.st/Voltium-Launcher-WEB-Folder%20(1)/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
